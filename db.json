@@ -1,0 +1,67 @@
+{
+  "reoports": [
+    {
+      "id": "Bank manager",
+      "city": "Thriisur",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpeByG3Rjrb6KSEotyAQm6KALcSKa7wpoFvQ&usqp=CAU",
+      "details": "\"Bank manager asked for money to help me secure a home loan.\"",
+      "date": "2023-10-12"
+    },
+    {
+      "id": "Villlage officer",
+      "city": "Ernakulam",
+      "imageUrl": "https://directionelearning.com/wp-content/uploads/2021/01/veo-village-extension-officer-kerala-psc-1280x720.jpg",
+      "details": "\"The village official asked for money in exchange for issuing the certificate.\"",
+      "date": "2023-10-12"
+    },
+    {
+      "id": "Doctor",
+      "city": "Kollam",
+      "imageUrl": "https://media.istockphoto.com/id/471629610/vector/caduceus-medical-symbol.jpg?s=612x612&w=0&k=20&c=jLnfdQQphRwsmm6wo0O80sEo-5PhbEY4PHmQgBiRkq0=",
+      "details": "\"In a government hospital, a doctor sought a bribe for my surgery, casting a shadow on the sanctity of medical care.\"",
+      "date": "2023-10-13"
+    },
+    {
+      "id": "BSNL ENGG",
+      "city": "KOCHI",
+      "imageUrl": "https://images.indianexpress.com/2016/12/bsnl48011.jpg",
+      "details": "\"The BSNL representative requested a fee for setting up the connection.\"",
+      "date": "2023-10-14"
+    },
+    {
+      "id": "KSEB ENGG",
+      "city": "Kannur",
+      "imageUrl": "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/8/23/w900X450/KSEB.jpg?w=400&dpr=2.6",
+      "details": "\"The KSEB engineer solicited payment for work done.\"",
+      "date": "2023-10-04"
+    },
+    {
+      "id": "Station House Officer",
+      "city": "kochi",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Kerala_State_Police_Logo.png",
+      "details": "\"The SHO imposed a fine on me for unknown reasons.\"",
+      "date": "2023-10-03"
+    },
+    {
+      "id": "Customs Officer",
+      "city": "Kochi",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5OwZDpsrG1kxFMvhyZaf0t8pK86v_03OeWcgIgXqCPeSAB77NEjAbn_W40N8AOgZlSkY&usqp=CAU",
+      "details": "\"The customs officer at the airport excessively fined me, but later adjusted the amount on the receipt.\"",
+      "date": "2023-10-05"
+    },
+    {
+      "id": "SPC Officer",
+      "city": "Thrissur",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Student_Police_Cadet_Kerala_Logo.jpg",
+      "details": "\"The SPC officer demanded a bribe for enlisting my son in the force.\"",
+      "date": "2023-10-07"
+    },
+    {
+      "id": "Principle",
+      "city": "Palakkad",
+      "imageUrl": "https://images.edexlive.com/uploads/user/imagelibrary/2018/12/13/original/Department-of-Education-Kerala-Logo.png",
+      "details": "\"The principal bribed me to ensure my son's passing in the exam.\"",
+      "date": "2023-10-06"
+    }
+  ]
+}
